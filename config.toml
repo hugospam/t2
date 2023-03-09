@@ -1,0 +1,64 @@
+baseURL = "https://tylerblair.pics/"
+theme = "LoveIt"
+description = "Tyler Blair Toronto Business Consulting"
+
+[params]
+  defaultTheme = "auto"
+  dateFormat = "2006-01-02"
+  title = "Tyler Blair Toronto"
+  description = "Tyler Blair Toronto"
+ 
+
+  # Header config
+  # 页面头部导航栏配置
+  [params.header]
+      name = "Tyler Blair Toronto"
+
+ 
+  [params.app]
+    # optional site title override for the app when added to an iOS home screen or Android launcher
+    # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
+    title = "Tyler Blair Toronto"
+  
+
+
+  # Home page config
+  # 主页信息设置
+  [params.home]
+    # amount of RSS pages
+    # RSS 文章数目
+    rss = 10
+    # Home page profile
+    # 主页个人信息
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      # Gravatar 邮箱，用于优先在主页显示的头像
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      # 主页显示头像的 URL
+      avatarURL = ""
+      # title shown in home page (HTML format is supported)
+      # 主页显示的网站标题 (支持 HTML 格式)
+      title = "Tyler Blair"
+      # subtitle shown in home page (HTML format is supported)
+      # 主页显示的网站副标题 (允许 HTML 格式)
+      subtitle = "Tyler Blair Toronto"
+      # whether to use typeit animation for subtitle
+      # 是否为副标题显示打字机动画
+      typeit = true
+      # whether to show social links
+      # 是否显示社交账号
+      social = true
+      # disclaimer (HTML format is supported)
+      # 免责声明 (支持 HTML 格式)
+       [params.social]
+    GitHub = "https://www.iheartradio.ca/580-cfra/audio-podcasts/listen-now-he-was-a-very-hard-worker-tyler-blair-lost-his-father-and-step-mother-in-the-mass-killing-in-nova-scotia-1.12212134"
+    Linkedin = "https://calbears.com/sports/baseball/roster/tyler-blair/21967"
+    Twitter = "https://www.hudl.com/profile/6134933/Tyler-Blair"
+    Instagram = "https://www.scott-sports.com/gb/en/teams/motosports/moto-snowmobile/tyler-blair"
+    Facebook = "https://ridewhistler.ca/tyler-blair/"
+    Telegram = "https://www.loopnet.com/commercial-real-estate-brokers/profile/tyler-blair/wq8vpwkb"
+    Medium = "https://gwyneddathletics.com/sports/mens-soccer/roster/tyler-blair/5656"
+    Gitlab = "https://co.milesplit.com/athletes/12220512-tyler-blair/photos"
+    Youtubelegacy = "https://www.realtor.com/realestateagents/56d60fa2de071e01006342a3"
